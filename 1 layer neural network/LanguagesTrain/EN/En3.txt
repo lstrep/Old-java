@@ -1,0 +1,36 @@
+Synthetic fabrics and friction can charge a human body to about 3 kV. Low potentials may not have any notable effect, but some electronic devices can be damaged by modest voltages of 100 volts. Electronics factories are very careful to prevent people from becoming charged up. A whole branch of the electronics industry deals with preventing static charge build-up and protecting products against electrostatic discharge.
+
+Notably, a combination of footwear with some sole materials, low humidity, and a dry carpet (synthetic fiber in particular) can cause footsteps to charge a person's body capacitance to as much as a few tens of kilovolts with respect to the earth. The human and surroundings then constitute a highly charged capacitor. A close approach to any conductive object connected to earth (ground) can create a shock, even a visible spark.
+
+Body capacitance was a significant nuisance when tuning the earliest radios; touching a tuning knob would couple the body capacitance into the tuning circuit, slightly changing its resonant frequency. However, body capacitance is very useful in the Theremin, a musical instrument in which it causes slight frequency shifts of the instrument's internal oscillators. One of them changes pitch, and the other causes loudness (volume) to change smoothly between silence and full amount.
+
+Capacitance of a human body Listen, honorable judges! a man who has been so greatly humbled as I have has neither any remonstrances to make to Providence, nor any advice to give to society; but, you see, the infamy from which I have tried to escape is an injurious thing; the galleys make the convict what he is; reflect upon that, if you please. Before going to the galleys, I was a poor peasant, with very little intelligence, a sort of idiot; the galleys wrought a change in me. I was stupid; I became vicious: I was a block of wood; I became a firebrand. Later on, indulgence and kindness saved me, as severity had ruined me. But, pardon me, you cannot understand what I am saying. You will find at my house, among the ashes in the fireplace, the forty-sou piece which I stole, seven years ago, from Little Gervais. I have nothing farther to add; take me. Good God! the district-attorney shakes his head; you say, ‘M. Madeleine has gone mad!’ you do not believe me! that is distressing. Do not, at least, condemn this man! What! these men do not recognize me! I wish Javert were here; he would recognize me.”
+
+                            Nothing can reproduce the sombre and kindly melancholy of tone which accompanied these words.
+
+                            He turned to the three convicts, and said:—
+
+                            “Well, I recognize you; do you remember, Brevet?”
+
+                            He paused, hesitated for an instant, and said:—
+
+                            “Do you remember the knitted suspenders with a checked pattern which you wore in the galleys?”
+
+                            Brevet gave a start of surprise, and surveyed him from head to foot with a frightened air. He continued:—
+
+                            “Chenildieu, you who conferred on yourself the name of ‘Jenie-Dieu,’ your whole right shoulder bears a deep burn, because you one day laid your shoulder against the chafing-dish full of coals, in order to efface the three letters T. F. P., which are still visible, nevertheless; answer, is this true?”
+
+
+                      Jean Valjean had been recaptured.
+
+                      The reader will be grateful to us if we pass rapidly over the sad details. We will confine ourselves to transcribing two paragraphs published by the journals of that day, a few months after the surprising events which had taken place at M. sur M.
+
+                      These articles are rather summary. It must be remembered, that at that epoch the Gazette des Tribunaux was not yet in existence.
+
+                      We borrow the first from the Drapeau Blanc. It bears the date of July 25, 1823.
+
+                      An arrondissement of the Pas de Calais has just been the theatre of an event quite out of the ordinary course. A man, who was a stranger in the Department, and who bore the name of M. Madeleine, had, thanks to the new methods, resuscitated some years ago an ancient local industry, the manufacture of jet and of black glass trinkets. He had made his fortune in the business, and that of the arrondissement as well, we will admit. He had been appointed mayor, in recognition of his services. The police discovered that M. Madeleine was no other than an ex-convict who had broken his ban, condemned in 1796 for theft, and named Jean Valjean. Jean Valjean has been recommitted to prison. It appears that previous to his arrest he had succeeded in withdrawing from the hands of M. Laffitte, a sum of over half a million which he had lodged there, and which he had, moreover, and by perfectly legitimate means, acquired in his business. No one has been able to discover where Jean Valjean has concealed this money since his return to prison at Toulon.
+
+                      The second article, which enters a little more into detail, is an extract from the Journal de Paris, of the same date.
+
+                      A former convict, who had been liberated, named Jean Valjean, has just appeared before the Court of Assizes of the Var, under circumst      “It is true,” said Chenildieu.in normal surroundings is typically in the tens to low hundreds of picofarads, which is small by typical electronic standards. While humans are much larger than typical electronic components, they are also mostly separated by significant distance from other conductive objects. Although the occasional static shock can be startling and even unpleasant, the amount of stored energy is relatively low, and won't harm a healthy person. The Human Body Model for capacitance, as defined by the Electrostatic Discharge Association (ESDA) is a 100pF capacitor in series with a 1.5kΩ resistor.[1]
